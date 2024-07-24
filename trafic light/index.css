@@ -1,0 +1,45 @@
+.container{
+    background-color: black;
+    width:100px;
+    height: 300px;
+    padding: 20px;
+}
+.red{
+    background-color: red;
+    height:80px;
+    width:80px;
+    margin:10px;
+    border: 2px blue solid;
+    border-radius: 50%;
+   
+}
+.green{
+    background-color: green;
+    height:80px;
+    width:80px;
+    margin:10px;
+    border: 2px blue solid;
+    border-radius: 50%;
+   
+}
+.yellow{
+    background-color:yellow;
+    height:80px;
+    width:80px;
+    margin:10px;
+    border: 2px blue solid;
+    border-radius: 50%;
+   
+}.line{
+    width: 30px;
+    height:150px;
+    background-color: black;
+    margin-left:55px;
+}
+.square{
+    height:50px;
+    width:100px;
+    background-color: black; 
+    border-radius: 20%;
+    margin-left:22px;
+}
